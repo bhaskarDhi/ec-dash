@@ -1,0 +1,15 @@
+.nav-link a{
+    color: #062b93;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.nav-item  a{
+    color: #062b93;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.navbar{
+    padding: 20px !important;
+}
